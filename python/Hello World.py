@@ -1,4 +1,4 @@
 # This is a simple Python script that prints "Hello, World!" to the console.
 
-# Print the message
-print("Hello, World!")
+if __name__ == '__main__':
+    print("Hello, World!") # Print the message
