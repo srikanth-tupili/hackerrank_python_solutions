@@ -14,9 +14,6 @@ If n is even and greater than 20, print "Not Weird"
 
   
 # Code:
-# Import necessary modules 
-import math  # Math module for mathematical functions
-
 def num_condition(n):
     if n % 2 == 1:  # If n is odd
         print('Weird')
