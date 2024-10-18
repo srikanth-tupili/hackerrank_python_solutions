@@ -8,7 +8,7 @@ The domain and extension contain only English alphabetical characters.
 The extension is 1, 2, or 3 characters in length.
 Given  pairs of names and email addresses as input, print each name and email address pair having a valid email address on a new line.
 
-Hint: Try using Email. utils() to complete this challenge. For example, this code:
+Hint: Try using Email.utils() to complete this challenge. For example, this code:
 """
 
 # Code:
